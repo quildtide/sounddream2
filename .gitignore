@@ -1,3 +1,5 @@
 *.wav
 *.flac
 *.mp3
+*.csv
+data/*
