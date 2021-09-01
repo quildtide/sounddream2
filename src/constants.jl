@@ -1,1 +1,2 @@
 const CHANNEL_COUNT = 2
+const GENRE_COUNT = 3
